@@ -4,14 +4,14 @@
 # _*BIO*_ 
 
 **About Me**
-
-####  Hello there! My name is Ikraan Ahmed, Iki for short. I am 28 years old and I am from Birmingham, UK. I was born in the Netherlands but grew up in North London. I am a law graduate, completed LLB law at Wolverhampton University; with administerative, customer service experience; currently seeking to change career paths and seeking an opportunity within the technology field. I am currently a Black Codher Full-stack developer Daly Cohort bootcamp student👩‍🎓 
-
+##### *Hello there! My name is Ikraan Ahmed, but most people call me 'Iki' for short. I was born in the Netherlands, came to the U.K when I was 5 years old; I have spent most of my life living in London, however I relocated to Birmingham after completing college. This enabled me to focus on my studies leading me to further my education at university. I am a law graduate who completed LLB law at the university of Wolverhampton, however, even after finishing university I still have that student mindset of constantly wanting to educate myself on more skills and knowledge. I am an ambitious, focused and committed individual; with administerative, customer service background; currently taking steps to change career paths and seeking an opportunity within the technology field. I am currently a Black Codher Full-stack developer bootcamp student👩‍🎓* 
+---
 
 *`Education`* 
-- Barnet College 
+- Black Codher Full-stack developer bootcamp Daly Cohor.
 - Wolverhamption Univeristy - LLB Law degree.
-- Black Codher Full-stack developer bootcamp Daly Cohort.
+- Barnet college.
+- Friern Barnet School.
 ---
 
 *`Interests`*
