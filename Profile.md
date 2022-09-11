@@ -1,6 +1,5 @@
 # Ikraan Ahmed
 [<img src="images/avatar.jpg.JPG" width="200" />](./link/to/sql/file)
-
 # _*BIO*_ 
 
 *`About Me`*
