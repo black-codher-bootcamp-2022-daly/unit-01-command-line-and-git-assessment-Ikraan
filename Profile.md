@@ -5,7 +5,7 @@
 
 **About Me**
 
-####  Hello there! My name is Ikraan Ahmed, Iki for short. I am 28 years old and I am from Birmingham, UK. I was born in the Netherlands but grew up in North London. I am a law graduate, completed LLB course at Wolverhampton University. I am currently a Black Codher bootcamp student👩‍🎓 
+####  Hello there! My name is Ikraan Ahmed, Iki for short. I am 28 years old and I am from Birmingham, UK. I was born in the Netherlands but grew up in North London. I am a law graduate, completed LLB law at Wolverhampton University; with administerative, customer service experience; currently seeking to change career paths and seeking an opportunity within the technology field. I am currently a Black Codher Full-stack developer Daly Cohort bootcamp student👩‍🎓 
 
 
 *`Education`* 
@@ -32,7 +32,7 @@ Since I have mentioned that I enjoy watching shows/documentaries here is list of
         + When they see us
         + How to get away with murder
 
-*Here is a link to my favourite website🔗:* [Youtube](https://youtube.com)
+*Here is a link to my favourite websites🔗:* [Freecodecamp](https://www.freecodecamp.org/) & [Youtube](https://youtube.com)
 
 ---
 
